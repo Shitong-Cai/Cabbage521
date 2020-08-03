@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://shitong-cai.gitee.io/class3website/</id>
+    <title>三班的小窝</title>
+    <updated>2020-08-03T10:12:15.096Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://shitong-cai.gitee.io/class3website/"/>
+    <link rel="self" href="https://shitong-cai.gitee.io/class3website/atom.xml"/>
+    <subtitle>大家好，这里是天津市育贤中学2017届三班的班级网站，请多关照</subtitle>
+    <logo>https://shitong-cai.gitee.io/class3website/images/avatar.png</logo>
+    <icon>https://shitong-cai.gitee.io/class3website/favicon.ico</icon>
+    <rights>All rights reserved 2020, 三班的小窝</rights>
+    <entry>
+        <title type="html"><![CDATA[❗️❓意见征求：网站主题+网站功能 ]]></title>
+        <id>https://shitong-cai.gitee.io/class3website/ChooseThemes/</id>
+        <link href="https://shitong-cai.gitee.io/class3website/ChooseThemes/">
+        </link>
+        <updated>2020-08-03T09:11:51.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>希望大家踊跃参加👀<br>
+一共有4个主题，截图见后文～<br>
+有几个功能，详情请看后文～</p>
+</blockquote>
+]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>希望大家踊跃参加👀<br>
+一共有4个主题，截图见后文～<br>
+有几个功能，详情请看后文～</p>
+</blockquote>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[这是第一条消息！点开看看～]]></title>
+        <id>https://shitong-cai.gitee.io/class3website/Fonded!/</id>
+        <link href="https://shitong-cai.gitee.io/class3website/Fonded!/">
+        </link>
+        <updated>2020-07-28T22:06:06.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>https://shitong-cai.gitee.io/class3website/hello-gridea/</id>
+        <link href="https://shitong-cai.gitee.io/class3website/hello-gridea/">
+        </link>
+        <updated>2018-06-05T22:06:06.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></content>
+    </entry>
+</feed>
