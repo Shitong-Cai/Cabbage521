@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shitong-cai.gitee.io/class3website/</id>
     <title>三班的小窝</title>
-    <updated>2020-08-08T04:32:28.732Z</updated>
+    <updated>2020-08-09T11:14:29.259Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://shitong-cai.gitee.io/class3website/"/>
     <link rel="self" href="https://shitong-cai.gitee.io/class3website/atom.xml"/>
@@ -10,6 +10,27 @@
     <logo>https://shitong-cai.gitee.io/class3website/images/avatar.png</logo>
     <icon>https://shitong-cai.gitee.io/class3website/favicon.ico</icon>
     <rights>All rights reserved 2020, 三班的小窝</rights>
+    <entry>
+        <title type="html"><![CDATA[😉福利第一波～（其实是回忆杀）]]></title>
+        <id>https://shitong-cai.gitee.io/class3website/Rememberx1/</id>
+        <link href="https://shitong-cai.gitee.io/class3website/Rememberx1/">
+        </link>
+        <updated>2020-08-09T10:07:29.000Z</updated>
+        <summary type="html"><![CDATA[<p>啦啦啦，前两天就有小可爱们吐槽“质问”我怎么还不更新😝<br>
+别着急嘛，这不就带着<strong>很久很久以前</strong>的图片来了～👀<br>
+👏👏👏......（此处脑补掌声！）</p>
+<blockquote>
+<p>温馨提示：是<strong>回忆杀</strong>哦！</p>
+</blockquote>
+]]></summary>
+        <content type="html"><![CDATA[<p>啦啦啦，前两天就有小可爱们吐槽“质问”我怎么还不更新😝<br>
+别着急嘛，这不就带着<strong>很久很久以前</strong>的图片来了～👀<br>
+👏👏👏......（此处脑补掌声！）</p>
+<blockquote>
+<p>温馨提示：是<strong>回忆杀</strong>哦！</p>
+</blockquote>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[✅已解决：意见征求：网站主题+网站功能 ]]></title>
         <id>https://shitong-cai.gitee.io/class3website/ChooseThemes/</id>
