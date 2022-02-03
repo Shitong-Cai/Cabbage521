@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cabbage521.gitee.io/</id>
     <title>卷心蔡</title>
-    <updated>2022-02-03T09:53:21.101Z</updated>
+    <updated>2022-02-03T10:04:24.712Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cabbage521.gitee.io/"/>
     <link rel="self" href="https://cabbage521.gitee.io/atom.xml"/>
@@ -12,15 +12,15 @@
     <rights>All rights reserved 2022, 卷心蔡</rights>
     <entry>
         <title type="html"><![CDATA[九年级的小情绪]]></title>
-        <id>https://cabbage521.gitee.io/post/jiu-nian-ji-de-xiao-qing-xu/</id>
-        <link href="https://cabbage521.gitee.io/post/jiu-nian-ji-de-xiao-qing-xu/">
+        <id>https://cabbage521.gitee.io/notes/</id>
+        <link href="https://cabbage521.gitee.io/notes/">
         </link>
         <updated>2022-02-03T03:50:06.000Z</updated>
-        <summary type="html"><![CDATA[<p>** 致初中的点滴生活**</p>
+        <summary type="html"><![CDATA[<p><strong>致初中的点滴生活</strong></p>
 <p>快放学了。<br>
 其实放学是件很令人高兴的事，心却不能像浮云一样轻盈——九年级了。虽不是下半学期，但上半学期的最后一天还是很难过的。</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>** 致初中的点滴生活**</p>
+        <content type="html"><![CDATA[<p><strong>致初中的点滴生活</strong></p>
 <p>快放学了。<br>
 其实放学是件很令人高兴的事，心却不能像浮云一样轻盈——九年级了。虽不是下半学期，但上半学期的最后一天还是很难过的。</p>
 <!--more-->
@@ -42,8 +42,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[匿名提问箱~哈！]]></title>
-        <id>https://cabbage521.gitee.io/post/askme/</id>
-        <link href="https://cabbage521.gitee.io/post/askme/">
+        <id>https://cabbage521.gitee.io/askme/</id>
+        <link href="https://cabbage521.gitee.io/askme/">
         </link>
         <updated>2021-08-23T09:41:22.000Z</updated>
         <content type="html"><![CDATA[<p>哈！自己整个提问箱它不香吗[Doge]！<br>
@@ -52,8 +52,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[嘘！别说话！]]></title>
-        <id>https://cabbage521.gitee.io/post/quiet/</id>
-        <link href="https://cabbage521.gitee.io/post/quiet/">
+        <id>https://cabbage521.gitee.io/quiet/</id>
+        <link href="https://cabbage521.gitee.io/quiet/">
         </link>
         <updated>2020-07-21T12:14:18.000Z</updated>
         <summary type="html"><![CDATA[<blockquote>
@@ -92,8 +92,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[伴随航空的“逆境”]]></title>
-        <id>https://cabbage521.gitee.io/post/AviationSafety/</id>
-        <link href="https://cabbage521.gitee.io/post/AviationSafety/">
+        <id>https://cabbage521.gitee.io/AviationSafety/</id>
+        <link href="https://cabbage521.gitee.io/AviationSafety/">
         </link>
         <updated>2020-05-24T13:23:44.000Z</updated>
         <summary type="html"><![CDATA[<blockquote>
@@ -159,8 +159,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[九年级的小情绪]]></title>
-        <id>https://cabbage521.gitee.io/post/GraduationMemorial/</id>
-        <link href="https://cabbage521.gitee.io/post/GraduationMemorial/">
+        <id>https://cabbage521.gitee.io/GraduationMemorial/</id>
+        <link href="https://cabbage521.gitee.io/GraduationMemorial/">
         </link>
         <updated>2020-05-05T13:13:36.000Z</updated>
         <summary type="html"><![CDATA[<p>** 致初中的点滴生活**</p>
@@ -189,8 +189,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[在VSCode中安装Q#]]></title>
-        <id>https://cabbage521.gitee.io/post/installqsharp/</id>
-        <link href="https://cabbage521.gitee.io/post/installqsharp/">
+        <id>https://cabbage521.gitee.io/installqsharp/</id>
+        <link href="https://cabbage521.gitee.io/installqsharp/">
         </link>
         <updated>2020-04-05T13:36:56.000Z</updated>
         <summary type="html"><![CDATA[<blockquote>
@@ -301,8 +301,8 @@ SayHello.simulate()
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://cabbage521.gitee.io/post/hello-gridea/</id>
-        <link href="https://cabbage521.gitee.io/post/hello-gridea/">
+        <id>https://cabbage521.gitee.io/hello-gridea/</id>
+        <link href="https://cabbage521.gitee.io/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
