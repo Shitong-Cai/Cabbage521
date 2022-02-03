@@ -1,73 +1,334 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://shitong-cai.gitee.io/class3website/</id>
-    <title>三班的小窝</title>
-    <updated>2020-08-09T11:14:29.259Z</updated>
+    <id>https://cabbage521.gitee.io/</id>
+    <title>卷心蔡</title>
+    <updated>2022-02-03T09:51:10.708Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://shitong-cai.gitee.io/class3website/"/>
-    <link rel="self" href="https://shitong-cai.gitee.io/class3website/atom.xml"/>
-    <subtitle>大家好，这里是天津市育贤中学2017届三班的班级网站，请多关照</subtitle>
-    <logo>https://shitong-cai.gitee.io/class3website/images/avatar.png</logo>
-    <icon>https://shitong-cai.gitee.io/class3website/favicon.ico</icon>
-    <rights>All rights reserved 2020, 三班的小窝</rights>
+    <link rel="alternate" href="https://cabbage521.gitee.io/"/>
+    <link rel="self" href="https://cabbage521.gitee.io/atom.xml"/>
+    <subtitle>当光穿过薄雾，就像手里的沙子想留下。</subtitle>
+    <logo>https://cabbage521.gitee.io/images/avatar.png</logo>
+    <icon>https://cabbage521.gitee.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, 卷心蔡</rights>
     <entry>
-        <title type="html"><![CDATA[😉福利第一波～（其实是回忆杀）]]></title>
-        <id>https://shitong-cai.gitee.io/class3website/Rememberx1/</id>
-        <link href="https://shitong-cai.gitee.io/class3website/Rememberx1/">
+        <title type="html"><![CDATA[九年级的小情绪]]></title>
+        <id>https://cabbage521.gitee.io/post/jiu-nian-ji-de-xiao-qing-xu/</id>
+        <link href="https://cabbage521.gitee.io/post/jiu-nian-ji-de-xiao-qing-xu/">
         </link>
-        <updated>2020-08-09T10:07:29.000Z</updated>
-        <summary type="html"><![CDATA[<p>啦啦啦，前两天就有小可爱们吐槽“质问”我怎么还不更新😝<br>
-别着急嘛，这不就带着<strong>很久很久以前</strong>的图片来了～👀<br>
-👏👏👏......（此处脑补掌声！）</p>
-<blockquote>
-<p>温馨提示：是<strong>回忆杀</strong>哦！</p>
-</blockquote>
+        <updated>2022-02-03T03:50:06.000Z</updated>
+        <summary type="html"><![CDATA[<p>** 致初中的点滴生活**</p>
+<p>快放学了。<br>
+其实放学是件很令人高兴的事，心却不能像浮云一样轻盈——九年级了。虽不是下半学期，但上半学期的最后一天还是很难过的。</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>啦啦啦，前两天就有小可爱们吐槽“质问”我怎么还不更新😝<br>
-别着急嘛，这不就带着<strong>很久很久以前</strong>的图片来了～👀<br>
-👏👏👏......（此处脑补掌声！）</p>
-<blockquote>
-<p>温馨提示：是<strong>回忆杀</strong>哦！</p>
-</blockquote>
+        <content type="html"><![CDATA[<p>** 致初中的点滴生活**</p>
+<p>快放学了。<br>
+其实放学是件很令人高兴的事，心却不能像浮云一样轻盈——九年级了。虽不是下半学期，但上半学期的最后一天还是很难过的。</p>
+<!--more-->
+<p>近一个月，考试、讲卷子，考试、讲卷子……像是加了一“个while(1);”循环。回家的作业也无非是卷子。自然，对放学这样的事也提不起兴趣。不过还好，每次做的卷子都是不一样的，还不算枯燥。</p>
+<p>最后一节课，老师讲期末考试要求。老师在讲，我们的心早不知在何处。浮云在飘，落叶的梦亦不知落何处。我抬头望着天空，心中却是不一样的境界。胡乱的用铅笔记下老师所讲的内容，结果只是错字一堆——像个小学生。</p>
+<p>找橡皮，想要擦掉。找不到橡皮，又觉得没什么好擦的。错字也挺好看的。心情遇瓶颈之时想到美术老师曾说过的话：“手里经常拿着什么东西是空虚的表现。”大悟似的在手心找到橡皮，甩手扔进笔袋，继续望着浮云在飘。</p>
+<p>小学时一个非常要好的朋友曾再快毕业时对我说过这样的话“快毕业了，咱们就要分开了……”不知为什么，看着浮云，想着这句话，泪水充满了眼眶，但又不忍落下。窗外浮云继续飘着，浮云在赶路，它会记得所到过的每一个地方的美景吗？会记得遇到的每一朵云彩的笑容吗？</p>
+<p>“怎么了？压力大？”“没，胡思乱想……”同桌没再说什么。过了一会，他继续说“没想到，九年级这么快！”“更没想到初中生活也过着这么快！”我若有所思的答道，而后意识到自己好像不应该将这样的悲伤情绪传达给其他人。</p>
+<p>“是啊，就快要分别了！你怎么这么早就开始感伤了。不过，今天老师们是挺奇怪的，下课时说话的语气好沉重，就像快要中考一样。”我大致向他解释小学的那一句话，他听了之后点点头，也在思考什么。</p>
+<p>此后，看着窗外的浮云，两只鸟看着天空，歌唱着，似乎知道了我们即将放假的喜悦。教室刚搬到一楼时，我便发现那几只鸟，在我们学校的一角有一个小小的家。而我们班，我坐在的位置，恰好是观鸟的好地方。不敢承认上课走神，但着实思考了一番：</p>
+<p>“它们一直生活在这里对吧！它们一直在歌唱对吧！它们，还记得上一届坐在这间教室的学生吗？会记得我们吗？”记得青春电视剧《少年派》中说过：“最可悲的是那些永不相交的平行线。我能和每一个人相识吗。”</p>
+<p>“好了，别难过了，还没到分别的时候呢！”他思考完了，对我笑。</p>
+<p>对啊！还有几个月了。没到分别的日子。就算分开了也不可怕，“人有悲欢离合，月有阴晴圆缺，此事古难全”。不过现在，信息技术这样发达，分开，也不再可怕。</p>
+<p>班里不知谁开了一句玩笑，几声轻笑，能听到几声鸟儿的附和。浮云似乎顿了一下。</p>
+<p>是啊！浮云会记得的，他会记得到过的每一个地方，记得每一处美景；他会记得每一朵云彩，记得每一个笑脸。就像我们会记得每一个人，记得每一声笑。鸟儿也会记得每一届的学生，就像我们都要迎来九年级的学习生活。</p>
+<p>初中三年很快就过去，我相信，分别时都会感伤。但也不那么难过对吗？回忆，有美好的笑容，有爽朗地笑声，有欢快的场面。虽然也会有写错的字，但还是不要涂掉的好，看着自己写错的字，我轻声笑了出来。</p>
+<p>缘分这东西，我不好说。有缘的，感恩下一次再见；无缘的，珍惜已有的回忆。</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[✅已解决：意见征求：网站主题+网站功能 ]]></title>
-        <id>https://shitong-cai.gitee.io/class3website/ChooseThemes/</id>
-        <link href="https://shitong-cai.gitee.io/class3website/ChooseThemes/">
+        <title type="html"><![CDATA[匿名提问箱~哈！]]></title>
+        <id>https://cabbage521.gitee.io/post/askme/</id>
+        <link href="https://cabbage521.gitee.io/post/askme/">
         </link>
-        <updated>2020-08-03T09:11:51.000Z</updated>
+        <updated>2021-08-23T09:41:22.000Z</updated>
+        <content type="html"><![CDATA[<p>哈！自己整个提问箱它不香吗[Doge]！<br>
+下方评论区，可以提问，说说对我的意见（别骂太狠[嘘]）~ 昵称、邮箱空着就行（你要是想写我也不拦着[Doge]）</p>
+<!--more-->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[嘘！别说话！]]></title>
+        <id>https://cabbage521.gitee.io/post/quiet/</id>
+        <link href="https://cabbage521.gitee.io/post/quiet/">
+        </link>
+        <updated>2020-07-21T12:14:18.000Z</updated>
         <summary type="html"><![CDATA[<blockquote>
-<p>希望大家踊跃参加👀<br>
-一共有4个主题，截图见后文～<br>
-有几个功能，详情请看后文～</p>
+<p>地理、生物会考模拟结束，每个同学都“热热闹闹”地讨论题目。一道答案显而易见的选择题也要争论半天。当然，也不缺向我一样考完试大脑一片空白瞎凑热闹的。</p>
 </blockquote>
 ]]></summary>
         <content type="html"><![CDATA[<blockquote>
-<p>希望大家踊跃参加👀<br>
-一共有4个主题，截图见后文～<br>
-有几个功能，详情请看后文～</p>
+<p>地理、生物会考模拟结束，每个同学都“热热闹闹”地讨论题目。一道答案显而易见的选择题也要争论半天。当然，也不缺向我一样考完试大脑一片空白瞎凑热闹的。</p>
 </blockquote>
+<!--more-->
+<p>一阵电流经过扩音器，使扩音器带动空气振动起来，我们的大脑很聪明的将空气的这种振动理解为一种声音——上课铃。但可能是刚考完试，一些多巴胺也十分聪明的让大脑忽略掉这一重要信号。</p>
+<p>“你们班主任找一下班长。”一个不知道是几班的同学推门就进，留下这句话转身就走。这句话在空气中引起的振动很快被同学讨论题目的共振淹没了。似乎只有我听到了，立刻去办公室却没有听到好消息：“你们物理老师刚拔完牙不能讲话，一会可能上不了课了。”<br>
+这时，却见物理老师推开办公室的门，急匆匆地拿教案、卷子，班主任和物理老师说了一些，具体记不太清，大致表示可以由她来替物理老师讲卷子。物理老师耳语几句，摇了摇头，表示可以坚持，一定要去讲课。</p>
+<p>上课前，班主任进班，简单的说明了情况，希望同学们能安静些。</p>
+<p>物理老师进来了，班级很安静，46双眼睛望向老师。老师举着一张卷子，我们的大脑很聪明的理解为“老师要讲昨天的作业卷子”，我们拿出卷子，向老师点头。</p>
+<p>老师看到我们拿好卷子，开始在黑板上写答案“1. D 2. C 3. B 4. C 5. B”字很大，很清楚。这时，班里特别安静，好像这个世界只剩下粉笔的“刷刷”声。偶尔翻卷子的声音像是在附和。</p>
+<p>没有一个人在说话，没有一个人四处望，没有一个人吃东西，没有一个人吃睡觉。这在平时是有的。所有人，46双眼睛随着老师手中的粉笔移动，手里拿着红笔改错。</p>
+<p>“7. A 8. D”老师写完了所有的选择题答案，举起手来。这原本是一个学生应该做的事，然而我们明白老师的意思“有不会的吗，举手问...”这句话在老师平时讲题时经常说，每次说的时候，老师都会向学生一样举起手。看到老师举起手来，那些平时不敢问问题的人，也开始问问题了。</p>
+<p>然而这一次，没有人举手，场面继续安静着——每个人都不想打破这平静，他们找到了一种很好的方式安静的表达不会的题，伸手指。老师点点头，在被“问”及的题号上打勾，然后开始逐个“讲”。</p>
+<p>那只白粉笔好像有生命，会说话一般，在黑板上写出的解题思路很简略，但我们都可以看懂，就像翻译暗号一样，而平时的课就像约定这些暗号一样，十分有趣。我们明白了老师“讲”的内容，向老师点点头。</p>
+<p>平静的湖面总要有波浪，就算浪花再小也会有声音。突然，一个窗户因为没有关严，被风吹开。一时间，三位同学的卷子好像长了翅膀向天空“飞去”。全班的目光望向窗边，负责关窗的同学脸红了。关窗户，两三个同学帮忙拾卷子，不到几秒钟的时间，这朵浪花便平静下来。46双眼睛再次看向老师，老师没有生气，点点头继续讲题。</p>
+<p>到了填空和大题，老师找了一个同学来念答案，，那同学有几个不确定的，问老师。真奇怪，明明看到她们的嘴动了，却没有听见声音，还是那么的安静。“XXX成哑巴了！”一个同学十分小声的说着，周围的几个同学笑了，也没再说什么。</p>
+<p>我们只想安静，就这么安静着。似乎，只要安静，我们就心安了。</p>
+<p>终于讲完了所有的题，依旧这么安静着，我们看着老师，点点头。那粉笔又说话了“有不会的题互相问一下，谢谢大家配合。”我们再次点点头。</p>
+<p>平静的湖面再次起了水波。有的同学开始讨论题目，有的同学仍然不愿打破宁静，回味着什么。但是，我能听到，没有人说闲话。</p>
+<p>这水波以一阵浪花结束，一股电流，电铃再次使空气振动——下课了。</p>
+<p>老师走出门时，班里还是那么安静。渐渐的，恢复了往常的样子，说话，谈笑。</p>
+<p>“<em>我今天被老师感动到了！</em>”一位同学说。</p>
+<p>“<em>嗯嗯！我也是！</em>”我回答。</p>
+<p>“<em>我觉得，老师会出现在我下一次的作文里。</em>”另一位同学说着。</p>
+<p>“<em>好主意</em>”我看着黑板上的暗号，回味了风平浪静，有着几次水花的一节课，自言自语道。我点点头。</p>
+<p><strong>嘘！别说话！老师上课呢！</strong></p>
+<p>2019年4月21日</p>
+<p>旅行在梦中的人</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[这是第一条消息！点开看看～]]></title>
-        <id>https://shitong-cai.gitee.io/class3website/Fonded!/</id>
-        <link href="https://shitong-cai.gitee.io/class3website/Fonded!/">
+        <title type="html"><![CDATA[伴随航空的“逆境”]]></title>
+        <id>https://cabbage521.gitee.io/post/AviationSafety/</id>
+        <link href="https://cabbage521.gitee.io/post/AviationSafety/">
         </link>
-        <updated>2020-07-28T22:06:06.000Z</updated>
+        <updated>2020-05-24T13:23:44.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>Flying is officially the safest way to travel. But safety never comes without adversites.     ----The FlightChannel</p>
+<p>乘坐飞机出行是当前最安全的旅行方式，然而这一安全总是伴随着逆境。  ----译自水岩冰WIce</p>
+</blockquote>
+]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>Flying is officially the safest way to travel. But safety never comes without adversites.     ----The FlightChannel</p>
+<p>乘坐飞机出行是当前最安全的旅行方式，然而这一安全总是伴随着逆境。  ----译自水岩冰WIce</p>
+</blockquote>
+<!--more-->
+<h2 id="小时候惊讶于飞机如何飞起来">小时候，惊讶于飞机如何飞起来</h2>
+<p>记得小时候，一个大哥哥来我家串门，带来的还有他最喜欢的电脑游戏CD——ぼくは航空管制官３（我是航空管制官3）。</p>
+<blockquote>
+<p>ぼくは航空管制官，是日本T社（全称没记住）开发的一款游戏，去年发布了第四代，而我小时候玩的时候还是第三代，所以现在对我管3的游戏BGM特别有感触。</p>
+<p>这款游戏旨在普及空中交通管制的知识，让大家了解飞机安全飞行背后的故事。 简单来讲就是让你作为一个空管员去管制飞机，让飞机安全飞行</p>
+</blockquote>
+<p>依稀记得那个时候还小，不知道什么是*空中交通管制（Air Traffic Control, ATC）<em>更不知道</em>GND，TWR，APP……*都是什么意思，然而只会随便的对飞机发出一些指令，继而安心的沉浸在欣赏飞机在跑道上起起落落。</p>
+<p>小时候，什么都不懂，竟问出飞机为什么会有机翼的问题，更不知还有流体压强一说，那个时候，每次看到一架飞机滑行道跑道，加速，起飞，我都会惊讶于飞机能够飞天的神奇事实。</p>
+<h2 id="长大后诧异于飞机为何摔下来">长大后，诧异于飞机为何摔下来</h2>
+<p>当然，像前文那样在游戏里面看飞机起降的闲情逸致持续不了十几分钟——由于我的胡乱管制所照成的空中接近、地面冲突……（分分钟将日本的每个地方变成骏河湾）</p>
+<p>那时还小，只知道这关失败了，但还可以再来；两机快要相撞了，但还没有撞上；出现事故了，至少不是真的事故。</p>
+<p>而现在，再也无法抱有这种心情去玩这款游戏了，提心吊胆于每一次的“擦肩而过”，而后便开始思考一个与儿时截然不同的问题——<strong>飞机为何会摔下来？</strong></p>
+<p>18年前，香港的一架飞机从雷达上消失了。如果有幸看到雷达屏幕的话，在CI611消失的同时，屏幕上的一个点分成了四个点，几秒后，它或者称之为“它们”彻底的从雷达上消失不见了。</p>
+<p><img src="https://cabbage521.gitee.io//post-images/1643859966887.jpg" alt="" loading="lazy"><br>
+<img src="https://cabbage521.gitee.io//post-images/1643859979665.jpg" alt="" loading="lazy"></p>
+<p>它就是中华航空611，最终确认为金属疲劳，空中解体，无一人生还。</p>
+<p>前些天，一架A320着陆时未放起落架，复飞过程中不幸遇到双发失效，最终化作一片火海淹没于居民楼中。</p>
+<p>它是巴基斯坦8303，事故调查仍在进行，结果未定。</p>
+<p>一架载满锂离子电池（多达81000粒）的飞机，空中起火，浓烟进入驾驶舱。高温、浓烟、低能见度，困扰着驾驶员。甚至由于火灾，干扰到操纵杆，驾驶员很难控制飞机。最终在飞机就快要坠毁的时候，副驾驶让飞机转弯，避开一个居民区……</p>
+<p>它是UPS6号。<br>
+……</p>
+<p>揪心，百十个人，就这样淹没于残骸，消失于灰烬……<br>
+痛心，百十个家庭，就这样同时亲人，永久的伤怀。</p>
+<h3 id="飞机为什么会摔下来">飞机为什么会摔下来？</h3>
+<p>有睡着的飞行员，让孩子进入驾驶舱的飞行员，语言不通的飞行员，胡乱驾驶的飞行员……<br>
+有贴了临时胶布忘了撕下来的地勤，有维护不力的地勤……<br>
+有粗心的空管，看错了的空管，说错了的空管……</p>
+<p><strong>人的错？</strong></p>
+<p>有737MAX，有MD-80，有DC10……</p>
+<p><strong>飞机的错？</strong></p>
+<h3 id="天灾还是人祸概率的锅">天灾？还是，人祸？概率的锅？</h3>
+<blockquote>
+<p>Flying is officially the safest way to travel.</p>
+</blockquote>
+<p>很喜欢的这句话，在墨菲定律面前显得如此苍白。它是实话没错，飞机是目前最安全的交通工具，也是在一定条件下最快捷的。</p>
+<p>但是，它也会有事故啊！有时候我常常在想，为什么会是他们，刚好坐上了那架飞机。而为什么同一场空难，两机相撞，最后的结局竟是一架飞机<strong>不幸坠山</strong>，另一架艰难着陆，<strong>全部生还</strong>！</p>
+<p>科学可以解释飞机坠毁的原因，概率可以说明飞机坠毁的可能性，墨菲定律能够给人启发。可是，这些根本解释不了<em>为什么那155人登上了这架A320，而那99人登上了那架A320</em>。</p>
+<h3 id="in-another-way">In another way</h3>
+<p>航空是安全的，尽管伴随逆境，但正是一次次逆境，给航空安全添砖加瓦，让安全更安全。所以，我会说</p>
+<blockquote>
+<p>尽管航空安全伴随逆境，但是，乘坐飞机出行仍然是现在最安全的方式。</p>
+</blockquote>
+<p>愿<strong>空中平安，地面平安，机舱平安。航空，平安！</strong></p>
+<h1 id="写在结束之后的">写在结束之后的</h1>
+<h2 id="跑道在空中延续">跑道在空中延续</h2>
+<p>一个电脑大小的屏幕，密密的，整齐的排列着不少的几十个点，每个点旁边有着不大的几个数字。这样的点和数字中的几乎每个都随着时间的静静流逝而改变着。同时估计每个点，每个数据，下达正确的指令，你，能做到吗？</p>
+<p>不要自信的说“我可以”，又或者是望而生怯“我不能”。去玩一玩我是航空管制官这个游戏吧，空管，没有你想的那么简单，也没有那么难。或许你可以打开航空的大门，细细领略一番。但当涉略，总会有收获，总能多一分对在航站楼等待的谅解。</p>
+<p>“跑道在空中延续”这个标题取自我管3里面的某一个关卡名，我很喜欢。相较于一些不幸的“跑道在居民楼中延续”，“在空中延续”总能使我振奋。是啊，虽然只接触了游戏，但是看着飞机沿着跑道的方向排成一排，好像跑道无限延伸一样，繁忙，混乱中的整齐……</p>
+<p>*<em>去了解一下航空吧，他很安全，也很脆弱。它需要人多人守护，需要很多人的支持。</em></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[九年级的小情绪]]></title>
+        <id>https://cabbage521.gitee.io/post/GraduationMemorial/</id>
+        <link href="https://cabbage521.gitee.io/post/GraduationMemorial/">
+        </link>
+        <updated>2020-05-05T13:13:36.000Z</updated>
+        <summary type="html"><![CDATA[<p>** 致初中的点滴生活**</p>
+<p>快放学了。<br>
+其实放学是件很令人高兴的事，心却不能像浮云一样轻盈——九年级了。虽不是下半学期，但上半学期的最后一天还是很难过的。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>** 致初中的点滴生活**</p>
+<p>快放学了。<br>
+其实放学是件很令人高兴的事，心却不能像浮云一样轻盈——九年级了。虽不是下半学期，但上半学期的最后一天还是很难过的。</p>
+<!--more-->
+<p>近一个月，考试、讲卷子，考试、讲卷子……像是加了一“个while(1);”循环。回家的作业也无非是卷子。自然，对放学这样的事也提不起兴趣。不过还好，每次做的卷子都是不一样的，还不算枯燥。</p>
+<p>最后一节课，老师讲期末考试要求。老师在讲，我们的心早不知在何处。浮云在飘，落叶的梦亦不知落何处。我抬头望着天空，心中却是不一样的境界。胡乱的用铅笔记下老师所讲的内容，结果只是错字一堆——像个小学生。</p>
+<p>找橡皮，想要擦掉。找不到橡皮，又觉得没什么好擦的。错字也挺好看的。心情遇瓶颈之时想到美术老师曾说过的话：“手里经常拿着什么东西是空虚的表现。”大悟似的在手心找到橡皮，甩手扔进笔袋，继续望着浮云在飘。</p>
+<p>小学时一个非常要好的朋友曾再快毕业时对我说过这样的话“快毕业了，咱们就要分开了……”不知为什么，看着浮云，想着这句话，泪水充满了眼眶，但又不忍落下。窗外浮云继续飘着，浮云在赶路，它会记得所到过的每一个地方的美景吗？会记得遇到的每一朵云彩的笑容吗？</p>
+<p>“怎么了？压力大？”“没，胡思乱想……”同桌没再说什么。过了一会，他继续说“没想到，九年级这么快！”“更没想到初中生活也过着这么快！”我若有所思的答道，而后意识到自己好像不应该将这样的悲伤情绪传达给其他人。</p>
+<p>“是啊，就快要分别了！你怎么这么早就开始感伤了。不过，今天老师们是挺奇怪的，下课时说话的语气好沉重，就像快要中考一样。”我大致向他解释小学的那一句话，他听了之后点点头，也在思考什么。</p>
+<p>此后，看着窗外的浮云，两只鸟看着天空，歌唱着，似乎知道了我们即将放假的喜悦。教室刚搬到一楼时，我便发现那几只鸟，在我们学校的一角有一个小小的家。而我们班，我坐在的位置，恰好是观鸟的好地方。不敢承认上课走神，但着实思考了一番：</p>
+<p>“它们一直生活在这里对吧！它们一直在歌唱对吧！它们，还记得上一届坐在这间教室的学生吗？会记得我们吗？”记得青春电视剧《少年派》中说过：“最可悲的是那些永不相交的平行线。我能和每一个人相识吗。”</p>
+<p>“好了，别难过了，还没到分别的时候呢！”他思考完了，对我笑。</p>
+<p>对啊！还有几个月了。没到分别的日子。就算分开了也不可怕，“人有悲欢离合，月有阴晴圆缺，此事古难全”。不过现在，信息技术这样发达，分开，也不再可怕。</p>
+<p>班里不知谁开了一句玩笑，几声轻笑，能听到几声鸟儿的附和。浮云似乎顿了一下。</p>
+<p>是啊！浮云会记得的，他会记得到过的每一个地方，记得每一处美景；他会记得每一朵云彩，记得每一个笑脸。就像我们会记得每一个人，记得每一声笑。鸟儿也会记得每一届的学生，就像我们都要迎来九年级的学习生活。</p>
+<p>初中三年很快就过去，我相信，分别时都会感伤。但也不那么难过对吗？回忆，有美好的笑容，有爽朗地笑声，有欢快的场面。虽然也会有写错的字，但还是不要涂掉的好，看着自己写错的字，我轻声笑了出来。</p>
+<p>缘分这东西，我不好说。有缘的，感恩下一次再见；无缘的，珍惜已有的回忆。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在VSCode中安装Q#]]></title>
+        <id>https://cabbage521.gitee.io/post/installqsharp/</id>
+        <link href="https://cabbage521.gitee.io/post/installqsharp/">
+        </link>
+        <updated>2020-04-05T13:36:56.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p><strong>Q#</strong>(<em>QSharp</em>)是一种专为量子计算机开发的量子编程语言，官方给出了三种不同的使用方式<br>
+1.Q#+Python，即在**.q**(QSharp)文件里编写量子算法，然后在Python中(以Host.py的形式)调用<br>
+2.Q#+C#，内容同上，改为采用C#作为驱动<br>
+3.在Visual Studio（2017或2019均可）中安装相关拓展从而直接在VS中编写量子程序。<br>
+<strong>由于我比较倾向第一种，故本教程采用vscode安装并使用Q#</strong></p>
+</blockquote>
+]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p><strong>Q#</strong>(<em>QSharp</em>)是一种专为量子计算机开发的量子编程语言，官方给出了三种不同的使用方式<br>
+1.Q#+Python，即在**.q**(QSharp)文件里编写量子算法，然后在Python中(以Host.py的形式)调用<br>
+2.Q#+C#，内容同上，改为采用C#作为驱动<br>
+3.在Visual Studio（2017或2019均可）中安装相关拓展从而直接在VS中编写量子程序。<br>
+<strong>由于我比较倾向第一种，故本教程采用vscode安装并使用Q#</strong></p>
+</blockquote>
+<!--more-->
+<h1 id="前期准备">前期准备</h1>
+<p>首先，你需要安装一个......电脑！（这可不是废话，你总不能指望用大脑写程序吧。不过说句废话，或许将来真有可能用大脑编写程序！）</p>
+<p>然后<a href="https://code.visualstudio.com/">VSCode</a>。这是算是基本中的基本了，也是微软官方的推荐。当然，你可以选的自己喜欢的代码编辑器。</p>
+<blockquote>
+<p>如果不知道什么是VSCode或者什么是代码编辑器，又或者不太了解编程，可以看我写的编程基础部分<br>
+都明白的跳过这些直接看后边。<br>
+我会在“基础”部分对电脑、编程等基本知识以及一些属于做一些讲解。</p>
+</blockquote>
+<p>下面的内容很重要，如果没有安装好可能导致代码无法运行或各种错误。</p>
+<ul>
+<li><a href="https://www.python.org/downloads/">Python</a> 3.6或更高版本</li>
+<li><a href="https://pip.pypa.io/en/stable/installing">PIP</a> Python 包管理器</li>
+<li><a href="https://www.microsoft.com/net/download">.NET Core SDK 3.1 或更高版本</a></li>
+</ul>
+<h2 id="python的安装">Python的安装</h2>
+<p>在官网中下载Python最新版本，地址在上面点击Python即可打开，没有找到的...<a href="https://www.python.org/downloads/">ここにです! </a></p>
+<p>这个就不过多赘述了，个人认为安装时没有太多问题。</p>
+<h2 id="pip安装">PIP安装</h2>
+<p>这个有必要强调一下，安装时需要使用<code>python3 xxxx/get-pip.py</code>。注意是<strong>python3</strong>，而不是<em>python</em></p>
+<p>剩下的照常安装......</p>
+<h2 id="net-core-sdk的安装">.Net Core SDK的安装</h2>
+<p>非常简单，按照官网描述，很快就可以安装。</p>
+<h1 id="qdkqsharp-development-kit的安装">QDK（QSharp Development Kit）的安装</h1>
+<p>安装进行到这步就说明离成功不远了，但是别大意，这里才是最容易出现问题的地方！！！</p>
+<ol>
+<li>安装<code>qsharp</code>包，这是一个允许在 Q # 和 Python 之间互操作的 Python 包。</li>
+</ol>
+<pre><code>pip install qsharp
+</code></pre>
+<ol start="2">
+<li>安装<code>iqsharp</code>，Jupyter 和 Python 使用的内核，提供用于编译和执行 Q # 操作的核心功能。</li>
+</ol>
+<pre><code>dotnet tool install -g Microsoft.Quantum.IQSharp
+dotnet iqsharp install
+</code></pre>
+<ol start="3">
+<li><a href="https://marketplace.visualstudio.com/items?itemName=quantum.quantum-devkit-vscode">为 VS Code 安装 QDK 扩展</a></li>
+</ol>
+<p>这个点击链接查看微软官网的文档</p>
+<blockquote>
+<p>声明：以上部分内容来自<a href="https://docs.microsoft.com/zh-cn/quantum/install-guide/pyinstall">微软官网关于Q#的文档</a>，点击查看官方的说明～</p>
+</blockquote>
+<h1 id="hello-world-测试">Hello, World! 测试</h1>
+<blockquote>
+<p>什么！？你还不知道什么是Hello,World！来来来，“分类-IT-基础”你可以看看！</p>
+</blockquote>
+<ul>
+<li>通过创建名为 Operation.qs 的文件并向其添加以下代码来创建最小 Q# 操作：</li>
+</ul>
+<pre><code class="language-Q#">namespace HelloWorld {
+    open Microsoft.Quantum.Intrinsic;
+    open Microsoft.Quantum.Canon;
+
+    operation SayHello() : Unit {
+        Message(&quot;Hello from quantum world!&quot;);
+    }
+}
+</code></pre>
+<ul>
+<li>创建名为 hello_world.py 的 Python 程序来调用 Q# SayHello() 操作：</li>
+</ul>
+<pre><code class="language-python">import qsharp
+
+from HelloWorld import SayHello
+
+SayHello.simulate()
+</code></pre>
+<ul>
+<li>运行该程序</li>
+</ul>
+<p><em><strong>这里需要说明一下，根据官网的文档是</strong></em><code>python hello_world.py</code><em><strong>但由于我们需要使用</strong></em><code>python3 hello_world.py</code></p>
+<ul>
+<li>如果程序输出如下内容，则表明一切都没问题了！安装成功了！</li>
+</ul>
+<pre><code class="language-bash">Hello from quantum world!
+</code></pre>
+<h1 id="可能遇到的问题">可能遇到的问题</h1>
+<ul>
+<li>无法在输入命令时总是显示各种失败</li>
+</ul>
+<p>可能是你没有给予相应的权限，如果是Windows系统，请右键cmd.exe选择“以管理员身份打开”，Mac/Linux则需要在命令前面添加<code>sudo</code>（别忘了空格）以保证该软件有相应的权限去安装。</p>
+<ul>
+<li>pip安装qsharp时显示版本问题</li>
+</ul>
+<p>可能的解决方案：回到安装PIP的那一步使用<code>python3</code>命令进行安装</p>
+<h1 id="结束语">结束语</h1>
+<p>如果还有问题或有需要交流的可以评论，我会不定期查看评论并且进行回复，如果您提的问题或建议有帮助，我会及时的更新该文档，以便其他人更好的阅读。</p>
+<h2 id="谢谢观看">谢谢观看！</h2>
+]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://shitong-cai.gitee.io/class3website/hello-gridea/</id>
-        <link href="https://shitong-cai.gitee.io/class3website/hello-gridea/">
+        <id>https://cabbage521.gitee.io/post/hello-gridea/</id>
+        <link href="https://cabbage521.gitee.io/post/hello-gridea/">
         </link>
-        <updated>2018-06-05T22:06:06.000Z</updated>
+        <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
 ✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
 ]]></summary>
         <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
 ✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+<!-- more -->
+<p><a href="https://github.com/getgridea/gridea">Github</a><br>
+<a href="https://gridea.dev/">Gridea 主页</a><br>
+<a href="http://fehey.com/">示例网站</a></p>
+<h2 id="特性">特性👇</h2>
+<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
+<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
+<p>🏷️  你可以对文章进行标签分组</p>
+<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
+<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
+<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
+<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
+<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
+<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
+<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
+<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
+<p>未来，它一定会成为你离不开的伙伴</p>
+<p>尽情发挥你的才华吧！</p>
+<p>😘 Enjoy~</p>
 ]]></content>
     </entry>
 </feed>
